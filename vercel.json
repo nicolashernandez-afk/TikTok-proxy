@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/tiktok/:path*",
-      "destination": "https://www.tiktok.com*"
+      "destination": "https://www.tiktok.com*" 
     }
   ]
 }
